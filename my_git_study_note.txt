@@ -3,3 +3,5 @@
 
 我再尝试一次push
 
+push 命令应该是git push -u origin master
+
